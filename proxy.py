@@ -5,7 +5,7 @@ import json
 app = flask.Flask('__main__')
 
 def site_name():
-    return 'https://denaro-node.gaetano.eu.org/'
+    return 'http://node.denaro.is/'
 
 db = []
 
